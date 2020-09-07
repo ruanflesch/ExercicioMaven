@@ -40,6 +40,7 @@ public class App {
                 System.out.println("Categoria : " + categoria);
                 System.out.println("---------------\n\n");
                 System.out.println("APENAS UMA MUDANÇA PARA EXECUTAR O PROGRAMA COM MAVEN!!!");
+                System.out.println("OUTRA MUDANÇA PARA EXECUTAR O PROGRAMA COM MAVEN!!!");
             }
         }
     }
